@@ -4,4 +4,4 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"/>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)
-![header](https://capsule-render.vercel.app/api?type=soft&color=yellow&height=300&section=header&text=GSM%20함성우&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=soft&color=Yellow&height=300&section=header&text=GSM%20함성우&fontSize=90)
