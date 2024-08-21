@@ -1,4 +1,4 @@
-### <h1>GSM 8기 함성우<h1>
+### GSM 8기 함성우
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hamseongwoo&show_icons=true&theme=radical)
 ### ✏️공부:
 <span><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/></span>
